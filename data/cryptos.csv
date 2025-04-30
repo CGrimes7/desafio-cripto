@@ -1,0 +1,4 @@
+id,rank,symbol,name,priceUsd,marketCapUsd,volumeUsd24Hr,changePercent24Hr
+bitcoin,1,BTC,Bitcoin,64782.1,123456789012.3,3456789012.5,-0.23
+ethereum,2,ETH,Ethereum,3482.15,45678901234.7,1678901234.9,1.12
+tether,3,USDT,Tether,1.0,87654321098.4,2234567890.1,0.01
